@@ -2,7 +2,7 @@
 - 👀 I’m interested in streaming
 - 🌱 I’m currently learning Html, Css, Java
 - 💞️ I’m looking to collaborate on Stream
-- 📫 How to reach me learn
+- 📫 How to reach me Discord *Nindo Sama*#9812
 
 <!---
 Nindosama/Nindosama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
